@@ -12,16 +12,16 @@ Optimizing development workflow with Vite
 ## Features 🌟
 List the key features of your web application.
 
-### Complete Responsive Design:
+#### Complete Responsive Design:
 The web application is designed to be fully responsive, providing a seamless experience across various screen sizes and devices.
 
-### Reusable Components:
+#### Reusable Components:
 The project includes a set of reusable components, allowing for efficient development and maintenance.
 
-### Dynamic Rendering:
+#### Dynamic Rendering:
 No hard-coded content. Dynamic rendering is implemented to ensure flexibility and adaptability to changing data.
 
-### Visually Appealing: 
+#### Visually Appealing: 
 The user interface is crafted to be visually appealing, providing an engaging and aesthetically pleasing experience for users.
 
 ## Demo
