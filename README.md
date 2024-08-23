@@ -21,7 +21,8 @@ The project includes a set of reusable components, allowing for efficient develo
 ### Dynamic Rendering:
 No hard-coded content. Dynamic rendering is implemented to ensure flexibility and adaptability to changing data.
 
-Visually Appealing: The user interface is crafted to be visually appealing, providing an engaging and aesthetically pleasing experience for users.
+### Visually Appealing: 
+The user interface is crafted to be visually appealing, providing an engaging and aesthetically pleasing experience for users.
 
 # Demo
 https://anurag-singh-nike-website.netlify.app/
