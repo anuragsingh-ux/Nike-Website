@@ -1,15 +1,15 @@
 # Nike-Website
 A stunning web application built with React, Tailwind CSS, and Vite.
 
-# Introduction 🚀
+## Introduction 🚀
 This project showcases my skills in React, Tailwind CSS, and Vite. It is a result of learning how to use Tailwind CSS effectively, including its utility classes and custom configurations.
 
-# What I've Learned 📚
+## What I've Learned 📚
 Effectively using Tailwind CSS utility classes
 Customizing Tailwind CSS configuration
 Building a responsive and visually appealing UI with React
 Optimizing development workflow with Vite
-# Features 🌟
+## Features 🌟
 List the key features of your web application.
 
 ### Complete Responsive Design:
@@ -24,5 +24,5 @@ No hard-coded content. Dynamic rendering is implemented to ensure flexibility an
 ### Visually Appealing: 
 The user interface is crafted to be visually appealing, providing an engaging and aesthetically pleasing experience for users.
 
-# Demo
+## Demo
 https://anurag-singh-nike-website.netlify.app/
